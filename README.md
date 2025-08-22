@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Developer | 🚀 React • Node.js • TypeScript • MongoDB</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYXlqYWU3bGF5dDg4dWM4ZnU2bGlpeHV1YzY3dHNqN2t0dDA4Y2dzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
 </p>
 
 ---
@@ -35,7 +35,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-tiwari-3544b2203/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" /></a>
   <a href="mailto:shivamt2102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff" /></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=fff" /></a>
 </p>
 
 ---
